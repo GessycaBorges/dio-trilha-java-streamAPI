@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4dbe9aa-8048-4d3e-a2df-45c4f4a43720" name="Changes" comment="Exemplos Functional Interface">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4dbe9aa-8048-4d3e-a2df-45c4f4a43720" name="Changes" comment="Ajuste Readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719537578307</updated>
       <workItem from="1719537579705" duration="253000" />
-      <workItem from="1719579093479" duration="13690000" />
+      <workItem from="1719579093479" duration="13992000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;first commit&quot;">
       <option name="closed" value="true" />
@@ -180,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719586755449</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Desafios de código">
+      <option name="closed" value="true" />
+      <created>1719597033759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719597033759</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajuste Readme">
+      <option name="closed" value="true" />
+      <created>1719597164624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719597164624</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +203,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;first commit&quot;" />
     <MESSAGE value="Exemplos Functional Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemplos Functional Interface" />
+    <MESSAGE value="Desafios de código" />
+    <MESSAGE value="Ajuste Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste Readme" />
   </component>
 </project>

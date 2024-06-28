@@ -1,9 +1,9 @@
 ## Function Interface
-### Binary Operator Example
-### Consumer Example
-### Function Example
-### Predicate Example
-### Supplier Example
+- Binary Operator Example 
+- Consumer Example 
+- Function Example 
+- Predicate Example 
+- Supplier Example
 
 ## Stream API - DESAFIO
 
