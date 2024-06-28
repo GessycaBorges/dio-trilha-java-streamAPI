@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4dbe9aa-8048-4d3e-a2df-45c4f4a43720" name="Changes" comment="Exemplos Functional Interface">
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalInterface/SupplierExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +36,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConsumerExample.executor": "Run",
+    "Application.Desafio1.executor": "Run",
+    "Application.Desafio10.executor": "Run",
+    "Application.Desafio11.executor": "Run",
+    "Application.Desafio12.executor": "Run",
+    "Application.Desafio13.executor": "Run",
+    "Application.Desafio14.executor": "Run",
+    "Application.Desafio15.executor": "Run",
+    "Application.Desafio16.executor": "Run",
+    "Application.Desafio17.executor": "Run",
+    "Application.Desafio18.executor": "Run",
+    "Application.Desafio19.executor": "Run",
+    "Application.Desafio2.executor": "Run",
+    "Application.Desafio3.executor": "Run",
+    "Application.Desafio4.executor": "Run",
+    "Application.Desafio5.executor": "Run",
+    "Application.Desafio6.executor": "Run",
+    "Application.Desafio7.executor": "Run",
+    "Application.Desafio8.executor": "Run",
+    "Application.Desafio9.executor": "Run",
     "Application.FunctionExample.executor": "Run",
     "Application.PredicateExample.executor": "Run",
     "Application.SupplierExample.executor": "Run",
@@ -55,13 +69,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConsumerExample">
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterface.ConsumerExample" />
+  <component name="RunManager" selected="Application.Desafio19">
+    <configuration name="Desafio15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Desafio15" />
       <module name="dio-trilha-java-streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalInterface.*" />
+          <option name="PATTERN" value="streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterface.FunctionExample" />
+    <configuration name="Desafio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Desafio16" />
       <module name="dio-trilha-java-streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalInterface.*" />
+          <option name="PATTERN" value="streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterface.PredicateExample" />
+    <configuration name="Desafio17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Desafio17" />
       <module name="dio-trilha-java-streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalInterface.*" />
+          <option name="PATTERN" value="streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterface.SupplierExample" />
+    <configuration name="Desafio18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Desafio18" />
       <module name="dio-trilha-java-streamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalInterface.*" />
+          <option name="PATTERN" value="streamApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Desafio19" />
+      <module name="dio-trilha-java-streamAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConsumerExample" />
-        <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.FunctionExample" />
-        <item itemvalue="Application.SupplierExample" />
+        <item itemvalue="Application.Desafio19" />
+        <item itemvalue="Application.Desafio18" />
+        <item itemvalue="Application.Desafio17" />
+        <item itemvalue="Application.Desafio16" />
+        <item itemvalue="Application.Desafio15" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719537578307</updated>
       <workItem from="1719537579705" duration="253000" />
-      <workItem from="1719579093479" duration="4708000" />
+      <workItem from="1719579093479" duration="13690000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;first commit&quot;">
       <option name="closed" value="true" />
@@ -144,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719537664990</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exemplos Functional Interface">
+      <option name="closed" value="true" />
+      <created>1719586755449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719586755449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
